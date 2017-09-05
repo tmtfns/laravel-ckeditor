@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?mdstte');
+  src:  url('fonts/icomoon.eot?mdstte#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?mdstte') format('truetype'),
+    url('fonts/icomoon.woff?mdstte') format('woff'),
+    url('fonts/icomoon.svg?mdstte#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mosmetro-vert-sign:before {
+  content: "\e906";
+}
+.icon-ic-get-app-black-24-px:before {
+  content: "\e907";
+}
+.icon-ic-access-time-black-24-px:before {
+  content: "\e90c";
+}
+.icon-facebook:before {
+  content: "\e901";
+}
+.icon-googleplus:before {
+  content: "\e902";
+}
+.icon-instagram:before {
+  content: "\e903";
+}
+.icon-linkedin:before {
+  content: "\e904";
+}
+.icon-twitter:before {
+  content: "\e909";
+}
+.icon-vk:before {
+  content: "\e90a";
+}
+.icon-youtube:before {
+  content: "\e90b";
+}
+.icon-man:before {
+  content: "\e900";
+}
+.icon-arrow-down:before {
+  content: "\e90f";
+}
+.icon-arrow-left:before {
+  content: "\e910";
+}
+.icon-arrow-right:before {
+  content: "\e911";
+}
+.icon-arrow-up:before {
+  content: "\e913";
+}
+.icon-chevron-left:before {
+  content: "\e90d";
+}
+.icon-chevron-right:before {
+  content: "\e90e";
+}
+.icon-map-pin:before {
+  content: "\e914";
+}
+.icon-phone:before {
+  content: "\e915";
+}
+.icon-x:before {
+  content: "\e912";
+}
+.icon-home:before {
+  content: "\e908";
+}
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-wrench:before {
+  content: "\e991";
+}
+.icon-bin2:before {
+  content: "\e9ad";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-minus:before {
+  content: "\ea0b";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
+.icon-books:before {
+  content: "\e920";
+}
+.icon-cogs:before {
+  content: "\e995";
+}
+.icon-briefcase:before {
+  content: "\e9ae";
+}
+.icon-download3:before {
+  content: "\e9c7";
+}
+.icon-arrow-down2:before {
+  content: "\ea3e";
+}
